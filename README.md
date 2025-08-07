@@ -1,4 +1,4 @@
-# Algorithms and Data Structures Project
+# Algorithms and Data Structures Project - Sorting
 
 A project designed to test and compare different sorting algorithms. This is part of the coursework and aims to analyze the performance of various sorting methods in different scenarios.
 
